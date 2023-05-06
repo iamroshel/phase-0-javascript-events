@@ -1,4 +1,4 @@
-# JavaScript Events c
+# JavaScript Events c c
 
 ## Learning Goals
 
